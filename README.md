@@ -1,1 +1,1 @@
-# miniHaskell-Labs
+# miniHaskell
